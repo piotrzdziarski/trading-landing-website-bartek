@@ -6,11 +6,10 @@
   flex-direction: column;
   margin-top: -80px;
   padding: 280px 0 200px 0;
-  background: linear-gradient(rgba(112, 179, 84, .5), rgba(112, 179, 84, .5)), url("/../img/claim-colored.jpg");
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: auto 150%;
+  background-position: 50% 50% !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: auto 150% !important;
 
   @media (min-width: 576px) {
     padding: 305px 0 200px 0;
